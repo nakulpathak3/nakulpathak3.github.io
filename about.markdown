@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I'm Nakul. I work out of Toronto at [Scribd](https://www.scribd.com/) where I'm working on Sidekiq, Terraform-ing AWS Fargate, Ruby and Rails upgrades and whatever else comes my way.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Before Scribd, I went to the University of Waterloo for Software Engineering and interned at companies like Twitter, Apple, Shopify, SigOpt, and Oracle.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I enjoy the same things every software engineer does - hiking, biking, beer, and coffee :) Thankfully, I have not taken up rock climbing.
 
-
-[jekyll-organization]: https://github.com/jekyll
+[Resume](/nakulpathak_resume.pdf)
