@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Average or Percentile?"
-date:   2020-12-11 17:48:02 -0500
-categories: mlem
+title: "Average or Percentile?"
+date: 2020-12-11 17:48:02 -0500
+categories: sre
 ---
 
 ![Request Time Example](/assets/request-times.png)
