@@ -21,7 +21,7 @@ I hadn't worked with Rails 6 much but honestly, the basics are all the same as 2
 $ rails new star-wars-api --webpack=react --database=postgresql
 ```
 
-I loved the quick setup ability. I actually realized this after I'd set up the app but I think this is great to know for future projects.
+I loved the flags that let me setup react and PostgreSQL so easily. I actually realized this after I'd set up the app but I think this is great to know for future projects.
 
 Overall, it was a fun experience. I should beautify the app but don't feel like writing CSS and there are other things I gotta learn/contribute to :)
 
